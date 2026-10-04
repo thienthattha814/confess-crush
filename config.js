@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "gửi cục dàng",
-    introTitle: 'Hồng ',
+    introTitle: 'Hồng Ngọc ',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
